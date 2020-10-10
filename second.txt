@@ -3,3 +3,5 @@ Second file
 once again commit
 
 Changes done onlone using Github to study git pull
+
+Changes done onlone using Github to study git fetch and merge
