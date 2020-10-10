@@ -1,1 +1,3 @@
 new file
+
+Changes done through github while studying smartgit remote repository 
