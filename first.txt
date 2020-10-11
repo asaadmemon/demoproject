@@ -1,3 +1,5 @@
 Working on remote repository
 
 Changes are done locally while studying smartgit with remote repository
+
+Changes to study git revert
