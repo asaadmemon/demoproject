@@ -1,3 +1,6 @@
 new file
 
 Changes done through github while studying smartgit remote repository 
+
+
+Studying go revert thrid file
